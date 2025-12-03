@@ -1,3 +1,5 @@
+# Documento alojado en GitHub
+
 # Acerca de GitHub y Git
 
 ## ¿Qué es Git?
