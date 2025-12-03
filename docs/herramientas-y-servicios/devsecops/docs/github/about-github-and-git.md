@@ -1,6 +1,6 @@
-# Documento alojado en GitHub
-
 # Acerca de GitHub y Git
+
+## Documento alojado en GitHub
 
 ## ¿Qué es Git?
 Git es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear cambios en el código, colaborar y mantener un historial completo del proyecto.
