@@ -1,6 +1,6 @@
-# Documento alojado en GitHub
-
 # 🛡️ ATENEA - Plataforma de Seguridad e Identidad
+
+## Documento alojado en GitHub
 
 ## Descripción General
 
@@ -211,3 +211,4 @@ Acceso al dashboard: [https://atenea.empresa.com/status](https://atenea.empresa.
 !!! info "Última actualización"
 
     Esta documentación fue actualizada el 15 de enero de 2024. Versión de ATENEA: v3.2.1
+
