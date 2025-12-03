@@ -1,3 +1,5 @@
+# Documento alojado en GitHub
+
 # Jenkins: Introducción y conceptos básicos
 
 ## ¿Qué es Jenkins?
