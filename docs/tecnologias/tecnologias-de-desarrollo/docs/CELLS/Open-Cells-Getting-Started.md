@@ -1,6 +1,6 @@
-# Documento alojado en GitHub
-
 # Open Cells – Getting Started
+
+## Documento alojado en GitHub
 
 This page describes how to start developing an app with Open Cells.
 
