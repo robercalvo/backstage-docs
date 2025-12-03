@@ -1,6 +1,6 @@
-# Documento alojado en GitHub
-
 # Jenkins: Introducción y conceptos básicos
+
+## Documento alojado en GitHub
 
 ## ¿Qué es Jenkins?
 Jenkins es un servidor de automatización **open source** que permite automatizar tareas relacionadas con la construcción, pruebas y despliegue de software. Es altamente extensible mediante plugins.
